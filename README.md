@@ -25,7 +25,7 @@ Si quiere recorregir, espere que empiece el periodo de recorrección, que será 
 
 ## Contacto
 
-Todo correo debe ser enviado a la casilla oficial del curso: iic2115@ing.puc.cl. Solicitudes de recorrección pedidas a través de este medio no serán consideradas.
+El correo del curso es: iic2115@ing.puc.cl. Solicitudes de recorrección pedidas a través de este medio no serán consideradas.
 
 ## Foro
 
