@@ -4,7 +4,7 @@
 
 ## Evaluación
 
-1. Las evaluaciones serán efectuadas por medio de laboratorios, actividades de participación y asistencia. Se calculará **la nota del curso NC**:
+1. Las evaluaciones serán efectuadas por medio de laboratorios, actividades de participación y asistencia. Se calculará **la nota del curso NC** como:
 
     **NC = 0.6 x L + 0.2 x P + 0.2 x A**
 
