@@ -6,7 +6,7 @@
 
 1. Las evaluaciones serán efectuadas por medio de laboratorios, actividades de participación y asistencia. Se calculará **la nota del curso NC** como:
 
-    **NC = 0.6 x L + 0.2 x P + 0.2 x A**
+    **NC = 0.6 x L + 0.3 x P + 0.1 x A**
 
     Donde **L** es el promedio de los laboratorios, **P** el promedio de las actividades de participación y **A** es el promedio de notas de asistencia.
 
@@ -37,3 +37,4 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 [Syllabus 2018-1](https://github.com/IIC2115/Syllabus-2018-1)
 [Syllabus 2018-2](https://github.com/IIC2115/Syllabus-2018-2)
 [Syllabus 2018-2](https://github.com/IIC2115/Syllabus-2019-1)
+[Syllabus 2018-2](https://github.com/IIC2115/Syllabus-2019-2)
