@@ -36,5 +36,5 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 [Syllabus 2017-2](https://github.com/IIC2115/Syllabus-2017-2)
 [Syllabus 2018-1](https://github.com/IIC2115/Syllabus-2018-1)
 [Syllabus 2018-2](https://github.com/IIC2115/Syllabus-2018-2)
-[Syllabus 2018-2](https://github.com/IIC2115/Syllabus-2019-1)
+[Syllabus 2019-1](https://github.com/IIC2115/Syllabus-2019-1)
 [Syllabus 2019-2](https://github.com/IIC2115/Syllabus-2019-2)
