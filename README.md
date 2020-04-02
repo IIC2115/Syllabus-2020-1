@@ -19,6 +19,9 @@
 ## Notas
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
 
+## Form entregas atrasadas
+Tienen hasta 24 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit dentro del plazo de entrega.
+
 ## Recorrección
 
 Si quiere recorregir, espere que empiece el periodo de recorrección, que será avisado por oportunamente. <!---Solo puede mandar a recorregir por [este form](https://goo.gl/forms/31MDLa2AGLoMAHI62). No se aceptarán mail para solicitar recorrección. -->
