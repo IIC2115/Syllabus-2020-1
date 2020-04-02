@@ -20,7 +20,7 @@
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
 
 ## Form entregas atrasadas
-Tienen hasta 24 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit dentro del plazo de entrega.
+Tienen hasta 24 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LXX correspondiente) dentro del plazo de entrega.
 
 ## Recorrección
 
@@ -36,8 +36,8 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 
 ## Otros Semestres
 
-[Syllabus 2017-2](https://github.com/IIC2115/Syllabus-2017-2)
-[Syllabus 2018-1](https://github.com/IIC2115/Syllabus-2018-1)
-[Syllabus 2018-2](https://github.com/IIC2115/Syllabus-2018-2)
-[Syllabus 2019-1](https://github.com/IIC2115/Syllabus-2019-1)
-[Syllabus 2019-2](https://github.com/IIC2115/Syllabus-2019-2)
+* [Syllabus 2017-2](https://github.com/IIC2115/Syllabus-2017-2)
+* [Syllabus 2018-1](https://github.com/IIC2115/Syllabus-2018-1)
+* [Syllabus 2018-2](https://github.com/IIC2115/Syllabus-2018-2)
+* [Syllabus 2019-1](https://github.com/IIC2115/Syllabus-2019-1)
+* [Syllabus 2019-2](https://github.com/IIC2115/Syllabus-2019-2)
