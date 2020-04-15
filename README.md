@@ -19,12 +19,12 @@
 ## Notas
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
 
-## Form entregas atrasadas
+## Entregas atrasadas
 Tienen hasta 24 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LXX correspondiente) dentro del plazo de entrega.
 
 ## Recorrección
 
-Si quiere recorregir, para todos los laboratorios y actividades contará con una semana desde que se publica el feedback en sus repositorios (a menos que se avise otro plazo de forma oficial), es decir, si el feedback se publica un lunes (entre las 0:00 y 23:59) tendrá plazo hasta el próximo lunes a las 23:59. Solo puede mandar a recorregir por [este form](https://docs.google.com/forms/d/1i1peDx2b5F5CyQd5SGgA2eaBBxkE0_3KXkbeJtPdbJg). No se aceptarán mail para solicitar recorrección.
+Si quiere recorregir, para todos los laboratorios y actividades contará con una semana desde que se publica el feedback en sus repositorios (a menos que se avise otro plazo de forma oficial), es decir, si el feedback se publica un lunes (entre las 0:00 y 23:59) tendrá plazo hasta el próximo lunes a las 23:59. Solo puede mandar a recorregir por [este formulario](https://docs.google.com/forms/d/1i1peDx2b5F5CyQd5SGgA2eaBBxkE0_3KXkbeJtPdbJg). No se aceptarán correos para solicitar recorrección ni solicitudes fuera de plazo.
 
 ## Contacto
 
