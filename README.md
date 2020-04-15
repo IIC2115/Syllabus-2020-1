@@ -24,11 +24,11 @@ Tienen hasta 24 horas después de la hora de entrega de los laboratorios para ll
 
 ## Recorrección
 
-Si quiere recorregir, espere que empiece el periodo de recorrección, que será avisado por oportunamente. <!---Solo puede mandar a recorregir por [este form](https://goo.gl/forms/31MDLa2AGLoMAHI62). No se aceptarán mail para solicitar recorrección. -->
+Si quiere recorregir, para todos los laboratorios y actividades contará con una semana desde que se publica el feedback en sus repositorios (a menos que se avise otro plazo de forma oficial), es decir, si el feedback se publica un lunes (entre las 0:00 y 23:59) tendrá plazo hasta el próximo lunes a las 23:59. Solo puede mandar a recorregir por [este form](https://docs.google.com/forms/d/1i1peDx2b5F5CyQd5SGgA2eaBBxkE0_3KXkbeJtPdbJg). No se aceptarán mail para solicitar recorrección.
 
 ## Contacto
 
-El correo del curso es: iic2115@ing.puc.cl. Solicitudes de recorrección pedidas a través de este medio no serán consideradas.
+El correo del curso es: iic2115@ing.puc.cl. Aquí pueden enviar sus inquietudes sobre el desarrollo del curso. Solicitudes de recorrección pedidas a través de este medio no serán consideradas.
 
 ## Foro
 
