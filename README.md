@@ -47,31 +47,31 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 ## Calendario 
 | Lab |	Tipo horario |	Fecha |	Módulo |
 | -------------- | ---------------- | ----------------- | ---------- |
-|L03	|Taller de revisión de ejercicios (Zoom - Discord)	|jueves 23 de abril|	5
-|L03	|Taller de trabajo Laboratorio (Discord)|	lunes 27 de abril|	4|
-|L03|	Sesion de consultas finales de laboratorio (Discord)|	jueves 30 de abril|	5
-L04	|Consolidación del capítulo y Ejemplos (Zoom)|	lunes 4 de mayo|	4
-L04	|	Consolidación del capítulo y Ejemplos (Zoom)|	lunes 4 de mayo|	5
-L04	|	Lectura y explicación de enunciado de laboratorio (Zoom)|	jueves 7 de mayo|	5
-L04	|	Actividad de participación (Zoom - Discord)|lunes 11 de mayo|	4
-L04	|	Actividad de participación (Discord)|lunes 11 de mayo|	5
-L04	|	Taller de revisión de ejercicios (Zoom - Discord)|	jueves 14 de mayo|	5
-L04	|	Taller de trabajo Laboratorio (Discord)	|lunes 18 de mayo|	4
-L04	|	Sesion de consultas finales de laboratorio (Discord)|	jueves 21 de mayo|	5
-L05 |	Consolidación del capítulo y Ejemplos (Zoom)|	lunes 25 de mayo|	4
-L05 |	Consolidación del capítulo y Ejemplos (Zoom)|	lunes 25 de mayo|	5
-L05 |	Lectura y explicación de enunciado de laboratorio (Zoom)|	jueves 28 de mayo|	5
-L05 |	Actividad de participación (Zoom - Discord)|	lunes 1 de junio|	4
-L05 |	Actividad de participación (Discord)|	lunes 1 de junio|	5
-L05 |	Taller de revisión de ejercicios (Zoom - Discord)|	jueves 4 de junio|	5
-L05 |	Taller de trabajo Laboratorio (Discord)	|lunes 8 de junio|	4
-L05 |	Sesion de consultas finales de laboratorio (Discord)|	jueves 11 de junio|	5
-L06	| Consolidación del capítulo y Ejemplos (Zoom)|	lunes 15 de junio|	4
-L06	|	Consolidación del capítulo y Ejemplos (Zoom)|	lunes 15 de junio	|5
-L06	|	Lectura y explicación de enunciado de laboratorio (Zoom)|	jueves 18 de junio|	5
-L06	|	Actividad de participación (Zoom - Discord)|	lunes 22 de junio|	4
-L06	|	Actividad de participación (Discord)|	lunes 22 de junio|	5
-L06	|	Taller de revisión de ejercicios (Zoom - Discord)|	jueves 25 de junio|	5
+|L03	|Taller de revisión de ejercicios (Zoom)	|jueves 23 de abril|	5
+||Semana de ajuste|	lunes 27 de abril|	4|
+||	Semana de ajuste|	jueves 30 de abril|	5
+|L03	|Taller de trabajo Laboratorio (Discord)|	lunes 4 de mayo|	4|
+|L03|	Sesion de consultas finales de laboratorio (Discord)|	jueves 7 de mayo|	5
+L04	|Consolidación del capítulo y Ejemplos (Zoom)|	lunes 11 de mayo|	4
+L04	|	Consolidación del capítulo y Ejemplos (Zoom)|	lunes 11 de mayo|	5
+L04	|	Lectura y explicación de enunciado de laboratorio (Zoom)|	jueves 14 de mayo|	5
+L04	|	Actividad de participación (Zoom - Discord)|lunes 18 de mayo|	4
+L04	|	Actividad de participación (Discord)|lunes 18 de mayo|	5
+L04	|	Taller de revisión de ejercicios (Zoom)|	jueves 21 de mayo|	5
+L04	|	Taller de trabajo Laboratorio (Discord)	|lunes 25 de mayo|	4
+L04	|	Sesion de consultas finales de laboratorio (Discord)|	jueves 28 de mayo|	5
+L05 |	Consolidación del capítulo y Ejemplos (Zoom)|	lunes 1 de junio|	4
+L05 |	Consolidación del capítulo y Ejemplos (Zoom)|	lunes 1 de junio|	5
+L05 |	Lectura y explicación de enunciado de laboratorio (Zoom)|	jueves 4 de junio|	5
+L05 |	Actividad de participación (Zoom - Discord)|	lunes 8 de junio|	4
+L05 |	Actividad de participación (Discord)|	lunes 8 de junio|	5
+L05 |	Taller de revisión de ejercicios (Zoom)|	jueves 11 de junio|	5
+L05 |	Taller de trabajo Laboratorio (Discord)	|lunes 15 de junio|	4
+L05 |	Sesion de consultas finales de laboratorio (Discord)|	jueves 18 de junio|	5
+L06	| Consolidación del capítulo y Ejemplos (Zoom)|	lunes 22 de junio|	4
+L06	|	Lectura y explicación de enunciado de laboratorio (Zoom)|	lunes 22 de junio	|5
+L06	|	Actividad de participación (Zoom - Discord)|	jueves 25 de junio|	5
+
 ## Notas
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
 
