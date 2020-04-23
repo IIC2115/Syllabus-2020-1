@@ -39,7 +39,7 @@ Clase online donde revisaremos el enunciado del laboratorio, se responderán las
 Se comenzará en la plataforma Zoom, donde se explicará el enunciado de la actividad y respondarán las dudas de este. Luego nos cambiaremos a la plataforma Discord, donde podrán resolver sus dudas de trabajo y mostrar su código en vivo al cuerpo docente mediante el sistema de colas de Discord (explicado en el punto 8).
 
 * Taller de revisión de ejercicios: 
-Comenzará en Zoom, donde se revisarán algunas soluciones de ejercicios de laboratorios anteriores. El resto del tiempo se estarán respondiendo dudas de materia, enunciados y laboratorios mediante Discord.
+Se realizará en Zoom, donde se revisarán algunas soluciones de ejercicios de laboratorios anteriores.
 
 * Taller de trabajo Laboratorio y Sesion de consultas finales de laboratorio: 
 Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laboratorios y dudas de contenido. Además podrán mostrar su código en vivo al cuerpo docente mediante el sistema de colas de Discord.
