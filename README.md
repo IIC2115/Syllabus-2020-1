@@ -51,12 +51,12 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 | L03	| Consolidación de materia (Zoom)	             | lunes 20 de abril  |	  4    | [Video](https://youtu.be/QMKm7rjYbGE) |
 | L03	| Taller de revisión de ejercicios (Zoom)	     | lunes 20 de abril  |	  5    | [Video](https://youtu.be/QMKm7rjYbGE?t=5727) |
 | L03	| Taller de revisión de ejercicios (Zoom)	     | jueves 23 de abril |	  5    | [Video](https://youtu.be/u4kHKk9ho5s) |
-|     | Semana de ajuste                             | lunes 27 de abril  |	  4    |
-|     | Semana de ajuste                             | jueves 30 de abril |	  5    |
-| L03	| Taller de trabajo Laboratorio (Discord)      | lunes 4 de mayo    |	  4    |
-| L03 |	Sesión de consultas de laboratorio (Discord) | jueves 7 de mayo   |	  5    |
-| L04	| Consolidación de materia (Zoom)              | lunes 11 de mayo   |	  4    |
-| L04	|	Taller de revisión de ejercicios (Zoom)      | lunes 11 de mayo   |	  5    |
+|     | Semana de ajuste                             | lunes 27 de abril  |	  4    | |
+|     | Semana de ajuste                             | jueves 30 de abril |	  5    | |
+| L03	| Taller de trabajo Laboratorio (Discord)      | lunes 4 de mayo    |	  4    | |
+| L03 |	Sesión de consultas de laboratorio (Discord) | jueves 7 de mayo   |	  5    | |
+| L04	| Consolidación de materia (Zoom)              | lunes 11 de mayo   |	  4    | [Video](https://youtu.be/qo4dz89hMzA) |
+| L04	|	Taller de revisión de ejercicios (Zoom)      | lunes 11 de mayo   |	  5    | [Video](https://youtu.be/qo4dz89hMzA?t=7120)
 | L04	|	Revisión de enunciado de laboratorio (Zoom)  | jueves 14 de mayo  |	  5    |
 | L04	|	Actividad de participación (Zoom - Discord)  | lunes 18 de mayo   | 	4    |
 | L04	|	Actividad de participación (Discord)         | lunes 18 de mayo   |	  5    |
