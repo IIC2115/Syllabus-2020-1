@@ -57,7 +57,7 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 | L03 |	Sesión de consultas de laboratorio (Discord) | jueves 7 de mayo   |	  5    | |
 | L04	| Consolidación de materia (Zoom)              | lunes 11 de mayo   |	  4    | [Video](https://youtu.be/qo4dz89hMzA) |
 | L04	|	Taller de revisión de ejercicios (Zoom)      | lunes 11 de mayo   |	  5    | [Video](https://youtu.be/qo4dz89hMzA?t=7120)
-| L04	|	Revisión de enunciado de laboratorio (Zoom)  | jueves 14 de mayo  |	  5    |
+| L04	|	Revisión de enunciado de laboratorio (Zoom)  | jueves 14 de mayo  |	  5    | [Video](https://youtu.be/Fw5Q5Trx1kg) |
 | L04	|	Actividad de participación (Zoom - Discord)  | lunes 18 de mayo   | 	4    |
 | L04	|	Actividad de participación (Discord)         | lunes 18 de mayo   |	  5    |
 |   	|	Feriado                                      | jueves 21 de mayo  |	       |
