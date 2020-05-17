@@ -1,0 +1,16 @@
+1,Boeing 747-400,8430
+2,Boeing 737-800,3383
+3,Airbus A340-300,7120
+4,British Aerospace Jetstream 41,1502
+5,Embraer ERJ-145,1530
+6,SAAB 340,2128
+7,Piper Archer III,520
+8,Tupolev 154,4103
+16,Schwitzer 2-33,30
+9,Lockheed L1011,6900
+10,Boeing 757-300,4010
+11,Boeing 777-300,6441
+12,Boeing 767-400ER,6475
+13,Airbus A320,2605
+14,Airbus A319,1805
+15,Boeing 727,1504
