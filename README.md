@@ -45,36 +45,37 @@ Se realizará a través Zoom, y consistirá en la resolución de problemas relac
 Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laboratorios y planteen dudas con respecto a estos. Además podrán mostrar su código en vivo al cuerpo docente mediante el sistema de colas de Discord.
 
 ## Calendario 
-| Lab |	Instancia                                    | Fecha              |	Módulo | Link  |
-| --- | -------------------------------------------- | ------------------ | :----: | :---: |
-| L03	| Revisión de enunciado (Zoom)	               | jueves 16 de abril |	  5    | [Video](https://youtu.be/IeTMfeWyMeM) |
-| L03	| Consolidación de materia (Zoom)	             | lunes 20 de abril  |	  4    | [Video](https://youtu.be/QMKm7rjYbGE) |
-| L03	| Taller de revisión de ejercicios (Zoom)	     | lunes 20 de abril  |	  5    | [Video](https://youtu.be/QMKm7rjYbGE?t=5727) |
-| L03	| Taller de revisión de ejercicios (Zoom)	     | jueves 23 de abril |	  5    | [Video](https://youtu.be/u4kHKk9ho5s) |
-|     | Semana de ajuste                             | lunes 27 de abril  |	  4    | |
-|     | Semana de ajuste                             | jueves 30 de abril |	  5    | |
-| L03	| Taller de trabajo Laboratorio (Discord)      | lunes 4 de mayo    |	  4    | |
-| L03 |	Sesión de consultas de laboratorio (Discord) | jueves 7 de mayo   |	  5    | |
-| L04	| Consolidación de materia (Zoom)              | lunes 11 de mayo   |	  4    | [Video](https://youtu.be/qo4dz89hMzA) |
-| L04	|	Taller de revisión de ejercicios (Zoom)      | lunes 11 de mayo   |	  5    | [Video](https://youtu.be/qo4dz89hMzA?t=7120)
-| L04	|	Revisión de enunciado de laboratorio (Zoom)  | jueves 14 de mayo  |	  5    | [Video](https://youtu.be/Fw5Q5Trx1kg) |
-| L04	|	Actividad de participación (Zoom - Discord)  | lunes 18 de mayo   | 	4    |
-| L04	|	Actividad de participación (Discord)         | lunes 18 de mayo   |	  5    |
-|   	|	Feriado                                      | jueves 21 de mayo  |	       |
-| L04	|	Taller de revisión de ejercicios (Zoom)	     | lunes 25 de mayo   |	  4    |
-| L04	|	Taller de trabajo Laboratorio (Discord)	     | lunes 25 de mayo   |	  5    |
-| L04	|	Sesión de consultas de laboratorio (Discord) | jueves 28 de mayo  |	  5    |
-| L05 |	Consolidación de materia (Zoom)              | lunes 1 de junio   |	  4    |
-| L05 |	Taller de revisión de ejercicios (Zoom)      | lunes 1 de junio   |	  5    |
-| L05 |	Revisión de enunciado de laboratorio (Zoom)  | jueves 4 de junio  |	  5    |
-| L05 |	Actividad de participación (Zoom - Discord)  | lunes 8 de junio   |	  4    |
-| L05 |	Actividad de participación (Discord)         | lunes 8 de junio   |	  5    |
-| L05 |	Taller de revisión de ejercicios (Zoom)      | jueves 11 de junio |	  5    |
-| L05 |	Taller de trabajo Laboratorio (Discord)	     | lunes 15 de junio  | 	4,5  |
-| L05 |	Sesión de consultas de laboratorio (Discord) | jueves 18 de junio |	  5    |
-| L06	| Consolidación de materia (Zoom)              | lunes 22 de junio  |	  4    |
-| L06	|	Revisión de enunciado de laboratorio (Zoom)  | lunes 22 de junio	|   5    |
-| L06	|	Actividad de participación (Zoom - Discord)  | jueves 25 de junio |	  5    |
+| Lab |	Instancia                                   | Fecha              | Módulo | Link |
+| --- | -------------------------------------------- | ------------------ | :----: | :--: |
+| L03	| Revisión de enunciado (Zoom)	              | jueves 16 de abril |   5    | [Video](https://youtu.be/IeTMfeWyMeM) |
+| L03	| Consolidación de materia (Zoom)	           | lunes 20 de abril  |   4    | [Video](https://youtu.be/QMKm7rjYbGE) |
+| L03	| Taller de revisión de ejercicios (Zoom)	     | lunes 20 de abril  |   5    | [Video](https://youtu.be/QMKm7rjYbGE?t=5727) |
+| L03	| Taller de revisión de ejercicios (Zoom)	     | jueves 23 de abril |   5    | [Video](https://youtu.be/u4kHKk9ho5s) |
+|     | Semana de ajuste                             | lunes 27 de abril  |        | |
+|     | Semana de ajuste                             | jueves 30 de abril |        | |
+| L03	| Taller de trabajo Laboratorio (Discord)      | lunes 4 de mayo    |   4    | |
+| L03 | Sesión de consultas de laboratorio (Discord) | jueves 7 de mayo   |   5    | |
+| L04	| Consolidación de materia (Zoom)              | lunes 11 de mayo   |	4    | [Video](https://youtu.be/qo4dz89hMzA) |
+| L04	| Taller de revisión de ejercicios (Zoom)      | lunes 11 de mayo   |	5    | [Video](https://youtu.be/qo4dz89hMzA?t=7120)
+| L04	| Revisión de enunciado de laboratorio (Zoom)  | jueves 14 de mayo  |	5    | [Video](https://youtu.be/Fw5Q5Trx1kg) |
+| L04	| Actividad de participación (Discord)         | lunes 18 de mayo   |  	4,5  |
+|   	| Feriado                                      | jueves 21 de mayo  |	     |
+|     | Semana de receso                             | lunes 25 de mayo   |	     | |
+|     | Semana de receso                             | jueves 28 de mayo  |	     | |
+| L04	| Taller de revisión de ejercicios (Zoom)	     | lunes 1 de junio   |	4    |
+| L04	| Taller de trabajo Laboratorio (Discord)	     | lunes 1 de junio   |	5    |
+| L04	| Sesión de consultas de laboratorio (Discord) | jueves 4 de junio  |	5    |
+| L05 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	4    |
+| L05 | Taller de revisión de ejercicios (Zoom)      | lunes 8 de junio   |	5    |
+| L05 | Revisión de enunciado de laboratorio (Zoom)  | jueves 11 de junio |	5    |
+| L05 | Actividad de participación (Discord)         | lunes 15 de junio  |	4,5  |
+| L05 | Taller de revisión de ejercicios (Zoom)      | jueves 18 de junio |	5    |
+| L05 | Taller de trabajo Laboratorio (Discord)	     | lunes 22 de junio  | 	4,5  |
+| L05 | Sesión de consultas de laboratorio (Discord) | jueves 25 de junio |	5    |
+|     | Feriado                                      | lunes 29 de junio  |        | |
+| L06	| Consolidación de materia (Zoom)              | jueves 2 de julio  |	4    |
+| L06	| Revisión de enunciado de laboratorio (Zoom)  | jueves 2 de julio  |   5    |
+| L06	| Actividad de participación (Discord)         | jueves 2 de julio  |	     |
 
 ## Notas
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
