@@ -62,8 +62,7 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 |   	| Feriado                                      | jueves 21 de mayo  |	     |
 |     | Semana de receso                             | lunes 25 de mayo   |	     | |
 |     | Semana de receso                             | jueves 28 de mayo  |	     | |
-| L04	| Taller de revisión de ejercicios (Zoom)	     | lunes 1 de junio   |	4    |
-| L04	| Taller de trabajo Laboratorio (Discord)	     | lunes 1 de junio   |	5    |
+| L04	| Taller de trabajo Laboratorio (Discord)	     | lunes 1 de junio   |	4,5    |
 | L04	| Sesión de consultas de laboratorio (Discord) | jueves 4 de junio  |	5    |
 | L05 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	4    |
 | L05 | Taller de revisión de ejercicios (Zoom)      | lunes 8 de junio   |	5    |
