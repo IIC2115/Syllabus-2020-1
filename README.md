@@ -64,17 +64,15 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 |     | Semana de receso                             | jueves 28 de mayo  |	     | |
 | L04	| Taller de trabajo Laboratorio (Discord)	     | lunes 1 de junio   |	4,5    |
 | L04	| Sesión de consultas de laboratorio (Discord) | jueves 4 de junio  |	5    |
-| L05 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	4    |
-| L05 | Taller de revisión de ejercicios (Zoom)      | lunes 8 de junio   |	5    |
-| L05 | Revisión de enunciado de laboratorio (Zoom)  | jueves 11 de junio |	5    |
-| L05 | Actividad de participación (Discord)         | lunes 15 de junio  |	4,5  |
-| L05 | Taller de revisión de ejercicios (Zoom)      | jueves 18 de junio |	5    |
-| L05 | Taller de trabajo Laboratorio (Discord)	     | lunes 22 de junio  | 	4,5  |
-| L05 | Sesión de consultas de laboratorio (Discord) | jueves 25 de junio |	5    |
+| L05, L06 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	4    |
+| L05, L06 | Consolidación de materia y revisión de ejercicios (Zoom)      | lunes 8 de junio   |	5    |
+| L05, L06 | Revisión de enunciado de laboratorio (Zoom)  | jueves 11 de junio |	5    |
+| L05, L06 | Actividad de participación (Discord)         | lunes 15 de junio  |	4,5  |
+| L05, L06 | Taller de revisión de ejercicios (Zoom)      | jueves 18 de junio |	5    |
+| L05, L06 | Taller de trabajo Laboratorio (Discord)	     | lunes 22 de junio  | 	4,5  |
+| L05, L06 | Sesión de consultas de laboratorio (Discord) | jueves 25 de junio |	5    |
 |     | Feriado                                      | lunes 29 de junio  |        | |
-| L06	| Consolidación de materia (Zoom)              | jueves 2 de julio  |	4    |
-| L06	| Revisión de enunciado de laboratorio (Zoom)  | jueves 2 de julio  |   5    |
-| L06	| Actividad de participación (Discord)         | jueves 2 de julio  |	     |
+| L06	| Taller de trabajo Laboratorio (Discord)              | jueves 2 de julio  |	4    |
 
 ## Notas
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
