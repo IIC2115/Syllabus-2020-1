@@ -37,7 +37,7 @@ Clase online con la consolidación del capítulo y luego la resolución online d
 Clase online donde revisaremos el enunciado del laboratorio, se responderán las consultas y se entregaran ayudas de trabajo. Esta se realizará a través la plataforma Zoom.
 
 * Actividad de participación: 
-Se comenzará en la plataforma Zoom, donde se explicará el enunciado de la actividad y responderán las dudas de este. Luego, cambiaremos a la plataforma Discord, donde podrán resolver sus dudas de trabajo y mostrar su código en vivo al cuerpo docente mediante el sistema de colas de Discord (explicado en el punto 8).
+Se comenzará en la plataforma Zoom, donde se explicará el enunciado de la actividad y responderán las dudas de este. Luego, cambiaremos a la plataforma Discord, donde podrán resolver sus dudas de trabajo y mostrar su código en vivo al cuerpo docente mediante el sistema de colas de Discord (explicado en el canal `#cola` del discord).
 
 * Taller de revisión de ejercicios: 
 Se realizará a través Zoom, y consistirá en la resolución de problemas relacionados a la materia.
