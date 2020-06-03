@@ -27,6 +27,7 @@ Dado que cada laboratorio restante (L04, L05 y L06) tendrán un total de 3 seman
 * Semana 3 (L03, L04 y L05)
   - Lunes: Taller de trabajo Laboratorio (Discord)
   - Jueves: Sesión de consultas de laboratorio (Discord)
+  
 Respecto a estos:
 
 * Consolidación de materia del capítulo y taller de revisión ejercicios: 
