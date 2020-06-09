@@ -59,21 +59,21 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 | L04	| Consolidación de materia (Zoom)              | lunes 11 de mayo   |	4    | [Video](https://youtu.be/qo4dz89hMzA) |
 | L04	| Taller de revisión de ejercicios (Zoom)      | lunes 11 de mayo   |	5    | [Video](https://youtu.be/qo4dz89hMzA?t=7120)
 | L04	| Revisión de enunciado de laboratorio (Zoom)  | jueves 14 de mayo  |	5    | [Video](https://youtu.be/Fw5Q5Trx1kg) |
-| L04	| Actividad de participación (Discord)         | lunes 18 de mayo   |  	4,5  |
-|   	| Feriado                                      | jueves 21 de mayo  |	     |
+| L04	| Actividad de participación (Discord)         | lunes 18 de mayo   |  	4,5  | |
+|   	| Feriado                                      | jueves 21 de mayo  |	     | |
 |     | Semana de receso                             | lunes 25 de mayo   |	     | |
 |     | Semana de receso                             | jueves 28 de mayo  |	     | |
-| L04	| Taller de trabajo Laboratorio (Discord)	     | lunes 1 de junio   |	4,5    |
-| L04	| Sesión de consultas de laboratorio (Discord) | jueves 4 de junio  |	5    |
-| L05, L06 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	4    |
-| L05, L06 | Consolidación de materia y revisión de ejercicios (Zoom)      | lunes 8 de junio   |	5    |
-| L05, L06 | Revisión de enunciado de laboratorio (Zoom)  | jueves 11 de junio |	5    |
-| L05, L06 | Actividad de participación (Discord)         | lunes 15 de junio  |	4,5  |
-| L05, L06 | Taller de revisión de ejercicios (Zoom)      | jueves 18 de junio |	5    |
+| L04	| Taller de trabajo Laboratorio (Discord)	     | lunes 1 de junio   |	4,5  | |
+| L04	| Sesión de consultas de laboratorio (Discord) | jueves 4 de junio  |	5    | |
+| L05 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	4    | [Video](https://youtu.be/w0wVRk-gwYA) |
+| L06 | Consolidación de materia (Zoom)              | lunes 8 de junio   |	5    | [Video](https://youtu.be/dxhpOBuTpiE) |
+| L05 y L06 | Revisión de enunciado de laboratorio (Zoom)  | jueves 11 de junio |	5    |
+| L05 y L06 | Actividad de participación (Discord)         | lunes 15 de junio  |	4,5  |
+| L05, L06 | Taller de revisión de ejercicios (Zoom)       | jueves 18 de junio |	5    |
 | L05, L06 | Taller de trabajo Laboratorio (Discord)	     | lunes 22 de junio  | 	4,5  |
-| L05, L06 | Sesión de consultas de laboratorio (Discord) | jueves 25 de junio |	5    |
+| L05, L06 | Sesión de consultas de laboratorio (Discord)  | jueves 25 de junio |	5    |
 |     | Feriado                                      | lunes 29 de junio  |        | |
-| L06	| Taller de trabajo Laboratorio (Discord)              | jueves 2 de julio  |	4    |
+| L05, L06 | Taller de trabajo Laboratorio (Discord)            | jueves 2 de julio  |	4    |
 
 ## Notas
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
