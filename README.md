@@ -73,7 +73,7 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 | L05, L06 | Taller de trabajo Laboratorio (Discord)	     | lunes 22 de junio  | 	4,5  |
 | L05, L06 | Sesión de consultas de laboratorio (Discord)  | jueves 25 de junio |	5    |
 |     | Feriado                                      | lunes 29 de junio  |        | |
-| L05, L06 | Taller de trabajo Laboratorio (Discord)            | jueves 2 de julio  |	4    |
+| L06 | Taller de trabajo Laboratorio (Discord)            | jueves 2 de julio  |	4    |
 
 ## Notas
 Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
