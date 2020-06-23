@@ -76,7 +76,7 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 | L06 | Taller de trabajo Laboratorio (Discord)            | jueves 2 de julio  |	4    |
 
 ## Notas
-Las notas ser irán actualizando en una planilla que pronto estará disponible en este archivo.
+Las notas oficiales se irán actualizando en SIDING.
 
 ## Entregas atrasadas
 Tienen hasta 24 horas después de la hora de entrega de los laboratorios para llenar [este formulario](https://docs.google.com/forms/d/1no0BQIlv5ET1iAvhJAw8lqec1CX-VE6IQz71t4CQyr0/edit) con los datos del commit que desean que sea revisado, en caso que no se llene el form dentro del plazo se revisará el último commit (de la carpeta LXX correspondiente) dentro del plazo de entrega.
