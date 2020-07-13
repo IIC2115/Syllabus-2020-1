@@ -47,7 +47,7 @@ Sesiones de trabajo en Discord para que avancen en el desarrollo de los Laborato
 
 ## Calendario 
 | Lab |	Instancia                                   | Fecha              | Módulo | Link |
-| --- | -------------------------------------------- | ------------------ | :----: | :--: |
+| :-: | -------------------------------------------- | ------------------ | :----: | :--: |
 | L03	| Revisión de enunciado (Zoom)	              | jueves 16 de abril |   5    | [Video](https://youtu.be/IeTMfeWyMeM) |
 | L03	| Consolidación de materia (Zoom)	           | lunes 20 de abril  |   4    | [Video](https://youtu.be/QMKm7rjYbGE) |
 | L03	| Taller de revisión de ejercicios (Zoom)	     | lunes 20 de abril  |   5    | [Video](https://youtu.be/QMKm7rjYbGE?t=5727) |
