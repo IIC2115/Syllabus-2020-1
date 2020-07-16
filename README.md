@@ -87,6 +87,7 @@ Si quiere recorregir, para todos los laboratorios y actividades contará con una
 * Solo puede mandar a recorregir por [este formulario](https://docs.google.com/forms/d/1i1peDx2b5F5CyQd5SGgA2eaBBxkE0_3KXkbeJtPdbJg).
 * No se aceptarán correos para solicitar recorrección ni solicitudes fuera de plazo.
 * Tenga en cuenta que al recorregir su nota puede subir, bajar o mantenerse.
+* El profesor/ayudante que revise su solicitud tiene la facultad de modificar puntaje en apartados no solicitados por el alumno. 
 * La calificación obtenida luego de la recorrección no es apelable, la nota se actualizará en la planilla oficial y se publicará otro feedback respecto a la recorrección en las issues de su repositorio privado.
 
 ## Contacto
